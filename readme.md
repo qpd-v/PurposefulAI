@@ -1,3 +1,5 @@
+![Purposeful-AI-Logo](https://github.com/qpd-v/PurposefulAI/assets/124479925/af9a048d-7863-4077-ba33-3ebb0c559a6a)
+
 # PurposefulAI v1.0
 
 PurposefulAI is a versatile AI assistant application that leverages the power of OpenAI's GPT and Anthropic's Claude models (more to come!) to provide a wide range of functionalities. It has voice chat functionality and with its user-friendly interface and customizable settings, PurposefulAI aims to be your go-to companion for various tasks and queries.
