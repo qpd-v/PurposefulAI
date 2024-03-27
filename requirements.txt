@@ -1,0 +1,8 @@
+anthropic
+gTTS
+pydub
+PyAudio
+SpeechRecognition
+pyttsx3
+openai
+customtkinter
