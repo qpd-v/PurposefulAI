@@ -4,6 +4,13 @@
 
 PurposefulAI is a versatile AI assistant application that leverages the power of OpenAI's GPT and Anthropic's Claude models (more to come!) to provide a wide range of functionalities. It has voice chat functionality and with its user-friendly interface and customizable settings, PurposefulAI aims to be your go-to companion for various tasks and queries.
 
+Dark Mode:
+![Screenshot---DARK](https://github.com/qpd-v/PurposefulAI/assets/124479925/04cc1af1-2659-4e40-8e33-262027d5d19d)
+
+Light Mode:
+![Screenshot---LIGHT](https://github.com/qpd-v/PurposefulAI/assets/124479925/e174a8a8-31ad-4f00-a06c-9a3102297b4a)
+
+
 ## Version 1 Features
 
 - **Multi-Modal Input**: PurposefulAI supports text input, voice input, and a combination of both, allowing you to interact with the AI assistant in a way that suits your preferences. More modes will be coming, including the ability to use images etc (such as with GPT Vision).
