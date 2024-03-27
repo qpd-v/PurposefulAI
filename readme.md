@@ -2,10 +2,13 @@
 
 # PurposefulAI v1.0
 
-PurposefulAI is a versatile AI assistant application that leverages the power of OpenAI's GPT and Anthropic's Claude models (more to come!) to provide a wide range of functionalities. 
+### **[DOWNLOAD HERE](https://github.com/qpd-v/PurposefulAI/blob/main/Install%20Purposeful%20AI.bat)**
 
-It has voice chat functionality and a user-friendly interface with customizable settings. 
+### **[ACCESS FULL REPO](https://github.com/qpd-v/PurposefulAI)**
 
+PurposefulAI is a versatile AI assistant application that leverages the power of OpenAI's GPT and Anthropic's Claude models (more to come!) to provide a wide range of functionalities. It has voice chat functionality and a user-friendly interface with customizable settings.
+
+PurposefulAI aims to be your simplified, go-to companion for various AI tasks and queries.
 
 Dark Mode:
 ![Screenshot---DARK](https://github.com/qpd-v/PurposefulAI/assets/124479925/04cc1af1-2659-4e40-8e33-262027d5d19d)
