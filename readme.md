@@ -1,6 +1,6 @@
 ![Purposeful-AI-Logo](https://github.com/qpd-v/PurposefulAI/assets/124479925/af9a048d-7863-4077-ba33-3ebb0c559a6a)
 
-# PurposefulAI v1.0
+# PurposefulAI v1.1
 
 ### **[DOWNLOAD HERE](https://github.com/qpd-v/PurposefulAI/blob/main/Install%20Purposeful%20AI.bat)**
 
@@ -11,11 +11,33 @@ PurposefulAI is a versatile AI assistant application that leverages the power of
 PurposefulAI aims to be your simplified, go-to companion for various AI tasks and queries.
 
 Dark Mode:
-![Screenshot---DARK](/Themes/Dark%20screenshot%20v1.1.jpg)
+![Screenshot---DARK](https://github.com/qpd-v/PurposefulAI/assets/124479925/04cc1af1-2659-4e40-8e33-262027d5d19d)
 
 Light Mode:
-![Screenshot---LIGHT](/Themes/Light%20screenshot%20v1.1.jpg)
+![Screenshot---LIGHT](https://github.com/qpd-v/PurposefulAI/assets/124479925/e174a8a8-31ad-4f00-a06c-9a3102297b4a)
 
+## PurposefulAI v1.1 Update:
+
+**New features:**
+
+- Added the ability to switch fonts.
+- Added code_block detection (still a little buggy, will fix next version) Currently it displays with a black background. This will be customizable soon.
+- Added the ability to add and save custom prompts. 
+- If custom prompt is selected, a small text input box will appear for the user to input their own custom prompt.
+- New Advance Settings button which opens a window to allow users to customize the temperature, max_tokens, and other parameters for the AI models to give them more control over the generated responses. 
+- Users can now select a color for the background or choose a custom color.
+- Added "Save Conversation", "Load Conversation", and "New Chat" buttons.
+- Added splash screen. Will have option to disable in further releases.
+- Added app icon.
+
+**Changes/Fixes:**
+
+- Rearranged buttons and forced them to the right side of the app when maximized.
+- Moved "Start Voice Chat" button to the right side of the buttons and "Stop Voice Chat" button is now red when displayed.
+- Fixed "stop voice chat" button not stopping voice chat on occasion. Still a little buggy. Will improve.
+
+
+-----
 
 ## Version 1 Features
 
