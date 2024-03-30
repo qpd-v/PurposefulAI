@@ -11,10 +11,10 @@ PurposefulAI is a versatile AI assistant application that leverages the power of
 PurposefulAI aims to be your simplified, go-to companion for various AI tasks and queries.
 
 Dark Mode:
-![Screenshot---DARK](https://github.com/qpd-v/PurposefulAI/assets/124479925/04cc1af1-2659-4e40-8e33-262027d5d19d)
+![Screenshot---DARK](/Themes/Dark%20screenshot%20v1.1.jpg)
 
 Light Mode:
-![Screenshot---LIGHT](https://github.com/qpd-v/PurposefulAI/assets/124479925/e174a8a8-31ad-4f00-a06c-9a3102297b4a)
+![Screenshot---LIGHT](/Themes/Light%20screenshot%20v1.1.jpg)
 
 
 ## Version 1 Features
