@@ -1,4 +1,4 @@
-![Purposeful-AI-Logo](https://github.com/qpd-v/PurposefulAI/assets/124479925/af9a048d-7863-4077-ba33-3ebb0c559a6a)
+![Purposeful-AI-Logo](https://github.com/qpd-v/PurposefulAI/blob/main/logo11.png)
 
 # PurposefulAI v1.1
 
